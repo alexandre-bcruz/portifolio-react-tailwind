@@ -16,7 +16,7 @@ export function Home() {
           Currently seeking global opportunities where I can apply my expertise and drive innovation.
         </p>
         <div className="mt-6 flex gap-4">
-          <a href="/AlexandreCruz-CV.pdf" download className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-500 text-sm">
+          <a href="/resume.pdf" download className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-500 text-sm">
             <FaDownload /> Download CV
           </a>
           <a href="https://www.linkedin.com/in/alexandre-bella-cruz-bb9b0ba9/" target="_blank" className="flex items-center gap-2 px-4 py-2 border border-blue-600 text-blue-400 hover:bg-blue-600 hover:text-white rounded text-sm">
